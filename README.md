@@ -18,7 +18,7 @@ _Collaborate and work together on GitHub._
   Do not use quotes on the <details> tag attributes.
 -->
 
-<details id=0 open>
+<details id=0>
 <summary><h2>Welcome</h2></summary>
 
 All great projects start with collaboration. Pull requests are the foundation of teamwork on GitHub — and pull request reviews give you the ability to work together and discuss changes specific to a pull request by commenting, requesting changes, or approving.
@@ -61,7 +61,7 @@ All great projects start with collaboration. Pull requests are the foundation of
   Encourage users to open new tabs for steps!
 -->
 
-<details id=1>
+<details id=1 open>
 <summary><h2>Step 1: Open a pull request</h2></summary>
 
 _Welcome to "Review pull requests"! :wave:_
