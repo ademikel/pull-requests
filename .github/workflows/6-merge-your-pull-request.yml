@@ -59,7 +59,7 @@ jobs:
       # Update README to close <details id=6> and open <details id=X>
       # and set STEP to 'X'
       - name: Update to step X
-        uses: skills/action-update-step@v1
+        uses: skills/action-update-step@v2
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           from_step: 6
